@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**anupdass/anupdass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello  👋 I am Anup Chandra Das
 
 
 - 🔭 I’m currently working on React Front-End Development
@@ -12,4 +9,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost  2 hours on facebooking everyday.
--->
